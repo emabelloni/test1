@@ -1,0 +1,13 @@
+{
+  "id" : "https://emabelloni.github.io/test1/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in emabelloni/test1 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://emabelloni.github.io/test1/manifests/manifest1.json",
+    "label" : "jrtnh"
+  } ]
+}

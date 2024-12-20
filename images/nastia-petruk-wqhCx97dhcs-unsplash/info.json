@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 174,
+    "height" : 116
+  }, {
+    "width" : 347,
+    "height" : 231
+  }, {
+    "width" : 693,
+    "height" : 462
+  }, {
+    "width" : 1385,
+    "height" : 923
+  }, {
+    "width" : 2769,
+    "height" : 1846
+  }, {
+    "width" : 5537,
+    "height" : 3691
+  } ],
+  "profile" : "level0",
+  "width" : 5537,
+  "id" : "https://emabelloni.github.io/test1/images/nastia-petruk-wqhCx97dhcs-unsplash",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3691
+}

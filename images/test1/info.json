@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 174,
+    "height" : 116
+  }, {
+    "width" : 347,
+    "height" : 231
+  }, {
+    "width" : 693,
+    "height" : 462
+  }, {
+    "width" : 1385,
+    "height" : 923
+  }, {
+    "width" : 2769,
+    "height" : 1846
+  }, {
+    "width" : 5537,
+    "height" : 3691
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5537,
+  "@id" : "https://emabelloni.github.io/test1/images/test1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3691
+}
